@@ -1,11 +1,11 @@
 # Muhammad Ain Ul Hassan Raza
 
-**AI Automation Engineer** — Building intelligent systems that solve real Life/business problems.
+**AI Automation Engineer** — Building intelligent systems that solve real business problems.
 
 ---
 
 ## ⚙️ Expertise
-- End-to-end WhatsApp, Web, Socail Media AI bot development (production-grade)
+- End-to-end WhatsApp, Web, Social Media AI bot development (production-grade)
 - Intelligent workflow automation (n8n, Make, Zapier)
 - LLM integration & prompt engineering (Gemini, Anthropic, OpenAI)
 - Conversational AI systems with persistent memory & session management
